@@ -1,0 +1,389 @@
+/* Start Upper Bar */
+@media (max-width:768px){
+    .upper-bar .info.text-right {
+        visibility: hidden;
+    }
+}
+
+@media (min-width:769px) and (max-width:991px){
+    .upper-bar .info.text-right {
+        visibility: hidden;
+    }
+
+}
+
+/******** End Upper Bar **********/
+/********* Start Slider *********/
+@media (max-width:768px){
+        .slide .carousel-inner h1 {
+            font-size: 20px;
+            left: 20px;
+    }
+}
+    
+@media (min-width:769px) and (max-width:991px){
+    .slide .carousel-inner h1 {
+        font-size: 33px;
+        left: 20px;
+    }
+}
+/********* End Slider ********/
+/******** Start Company **********/
+@media (max-width: 768px){
+        .company h2 {
+            font-size: 20px;
+        }  
+    .company p{
+        line-height: 1.3;
+        word-spacing: 1px;
+        letter-spacing: .4px;
+        width:100%;
+        font-size: 15px;
+    }
+    .company h3{
+        letter-spacing: 0.5px;
+        padding: 10px;
+        margin-bottom: 10px;
+        font-size: 18px;
+    }
+    .company button{
+        padding: 2px 15px;
+        border-radius: 5px;
+        font-size: 13px;
+        font-weight: 300;
+    }
+}
+@media (min-width: 769px) and (max-width: 991px){
+    .company h2 {
+        font-size: 25px;
+    } 
+    .company p{
+        line-height: 1.3;
+        word-spacing: 1px;
+        letter-spacing: .4px;
+        width:100%;
+        font-size: 18px;
+    }
+    .company h3{
+        letter-spacing: 0.5px;
+        padding: 12px;
+        margin-bottom: 10px;
+        font-size: 23px;
+    }
+    .company button{
+        padding: 2px 15px;
+        border-radius: 5px;
+        font-size: 16px;
+        font-weight: 300;
+    }
+}
+    
+/******** End Company **********/
+/******** Staer Featured Work **********/
+@media (max-width: 768px){
+    .featured-word h2 {
+        font-size: 22px;
+    } 
+    .featured-word p{
+        line-height: 1.3;
+        word-spacing: 1px;
+        letter-spacing: .4px;
+        width:100%;
+        font-size: 15px;
+
+    }
+}
+@media (min-width: 769px) and (max-width: 991px){
+    .featured-word h2 {
+        font-size: 30px;
+    } 
+    .featured-word p{
+        line-height: 1.3;
+        word-spacing: 1px;
+        letter-spacing: .4px;
+        width:100%;
+        font-size: 20px;
+
+    }
+}
+@media (min-width: 992px) and (max-width: 1199px){
+    .featured-word h2 {
+        font-size: 40px;
+    } 
+    .featured-word p{
+        line-height: 1.3;
+        word-spacing: 1px;
+        letter-spacing: .4px;
+        width:100%;
+        font-size: 20px;
+
+    }
+}
+/******** End Featured Work **********/
+/******** Start Latest Posts **********/
+@media (max-width: 768px){
+    .latest-post h2{
+        font-size: 22px;
+        font-weight: bold;
+        margin-bottom: 20px;
+    }
+    .latest-post .latest-p{
+        font-size: 15px;
+        margin: 0 auto 50px;
+        color: #6a6a6a;
+        text-align: center;
+        line-height: 1.3;
+        word-spacing: 1px;
+        letter-spacing: .4px;
+        width:100%;
+    }
+}
+@media (min-width: 769px) and (max-width: 991px){
+    .latest-post h2 {
+        font-size: 30px;
+    } 
+    .latest-post .latest-p{
+        line-height: 1.3;
+        word-spacing: 1px;
+        letter-spacing: .4px;
+        width:100%;
+        font-size: 20px;
+
+    }
+}
+
+@media (min-width: 992px) and (max-width: 1199px){
+    .latest-post h2 {
+        font-size: 40px;
+    } 
+    .latest-post .latest-p{
+        line-height: 1.3;
+        word-spacing: 1px;
+        letter-spacing: .4px;
+        width:100%;
+        font-size: 20px;
+
+    }
+}
+
+/******** End Latest Posts**********/
+/******** Start Pricing Table**********/
+
+@media (max-width: 768px){
+    .pricing-table h2{
+        font-size: 22px;
+        font-weight: bold;
+        margin-bottom: 20px;
+    }
+    .pricing-table .latest-p{
+        font-size: 15px;
+        margin: 0 auto 50px;
+        color: #6a6a6a;
+        text-align: center;
+        line-height: 1.3;
+        word-spacing: 1px;
+        letter-spacing: .4px;
+        width:100%;
+    }
+}
+@media (min-width: 769px) and (max-width: 991px){
+    .pricing-table h2 {
+        font-size: 30px;
+    } 
+    .pricing-table .latest-p{
+        line-height: 1.3;
+        word-spacing: 1px;
+        letter-spacing: .4px;
+        width:100%;
+        font-size: 20px;
+
+    }
+}
+
+@media (min-width: 992px) and (max-width: 1199px){
+    .pricing-table h2 {
+        font-size: 40px;
+    } 
+    .pricing-table .latest-p{
+        line-height: 1.3;
+        word-spacing: 1px;
+        letter-spacing: .4px;
+        width:100%;
+        font-size: 20px;
+
+    }
+}
+/******** End Pricing Table**********/
+/******** Start Why Choose Us**********/
+@media (max-width: 768px){
+    .choose-us .h1{
+        font-size: 20px;
+    }
+    .choose-us .lead{
+        font-size: 15px;
+    }
+    .choose-us .btn{
+        margin: 5px 20px 20px
+    }
+}
+@media (min-width: 769px) and (max-width: 991px){
+    .choose-us .h1{
+        font-size: 30px;
+    }
+    .choose-us .lead{
+        font-size: 20px;
+    }
+    .choose-us .btn{
+        margin: 15px 25px 20px
+    }
+}
+
+@media (min-width: 992px) and (max-width: 1199px){
+    .choose-us .h1{
+        font-size: 40px;
+    }
+    .pricing-table .latest-p{
+        font-size: 20px;
+    }
+}
+/******** End Why Choose Us**********/
+/******** Start Contact Us **********/
+@media (max-width: 768px){
+    .contact-us{
+        padding: 60px 0;
+        background: var(--redColor);
+        color: #fff;
+        font-size: 20px;
+    }
+    .contact-us .btn{ 
+        font-size: 10px;
+        margin-top: 20px;
+        padding: 3px;
+    }
+}
+@media (min-width: 769px) and (max-width: 991px){
+    .contact-us .btn{ 
+        font-size: 10px;
+        margin-top: 20px;
+        padding: 6px;
+    }
+}
+/******** End Contact Us**********/
+/********Start Footer**********/
+@media (max-width:768px){
+    .footer{
+        margin-top: 80px;
+    }
+    .footer .site-info p{
+        font-size: 17px;
+        line-height: 1.4;
+    }
+    .footer .site-info button{
+        margin: 5px 0;
+        padding: 4px
+    }
+    .footer .helpful ul{
+        margin-top: 17px;
+    }
+    .footer .helpful ul li{
+        line-height: 1.6;
+    }
+    .footer .contact{
+        margin-top: 17px;
+    }
+    .footer .contact ul{
+        padding-top: 15px;
+        line-height: 1.8;
+    }
+    .footer .helpful .last {
+        margin-left: -206px;
+    }
+}
+
+@media (min-width:769px) and (max-width:991px){
+
+}
+@media (min-width:992px) and (max-width:1199px){
+
+}
+
+@media (min-width:1200px){
+
+} 
+/******** End Footer**********/
+/******** Start Copy Right**********/
+
+@media (max-width:768px){
+    .copyright{
+        text-align: center;
+        padding: 10px 0;
+    }
+    .copyright .row ul li{
+        margin-right: 18px;
+        margin-top: 10px;
+    }
+    .copyright .row ul li a i{
+        color:gray;
+        font-size: 20px
+    }
+}
+/******** End Copy Right**********/
+/******** Start Testimonials **********/
+@media (max-width:768px){
+    .testimoials .carousel-item img{
+        height: 100px;
+        width: 100px;
+    }
+    .testimoials .carousel-item .carousel-caption {
+        margin-bottom: 25px;
+    }
+    .testimoials .carousel-item .carousel-caption h5{
+        top: 50%;
+        left: 50%;
+        transform: translate(0%, -56%);
+        font-size: 20px;
+    }
+    .testimoials .carousel-item .carousel-caption span{
+        top: 50px;
+        font-size: 17px;
+        
+    }
+    .testimoials .carousel-item .carousel-caption p{
+        top: 50%;
+        left: 50%;
+        transform: translate(0%, -2%);
+        visibility: hidden;
+    }
+}
+
+@media (min-width:769px) and (max-width:991px){
+    .testimoials .carousel-item .carousel-caption h5{
+        top: 50%;
+        left: 50%;
+        transform: translate(0%, -56%);
+        font-size: 20px;
+    }
+    .testimoials .carousel-item .carousel-caption {
+        margin-bottom: 73px;
+    }
+    .testimoials .carousel-item .carousel-caption p{
+        top: 50%;
+        left: 50%;
+        transform: translate(0%, -2%);
+    }
+}
+/******** End Testimonials**********/
+/* @media (max-width:768px){
+
+}
+
+@media (min-width:769px) and (max-width:991px){
+
+}
+@media (min-width:992px) and (max-width:1199px){
+
+}
+
+@media (min-width:1200px){
+
+} */

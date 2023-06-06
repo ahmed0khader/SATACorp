@@ -1,0 +1,26 @@
+*{
+    padding: 0;
+    margin: 0;
+    box-sizing: border-box;
+}
+:root{
+
+    --blueColor: #08526d;
+    --redColor: #ec1c23;
+}
+.mose{
+    cursor: pointer;
+}
+.mbt{
+    margin: 100px 0;
+}
+.mt{
+    margin-top: 100px;
+}
+.pbt{
+    padding-top: 100px;
+    padding-bottom: 100px;
+}
+.cbt{
+    text-transform: capitalize;
+}
